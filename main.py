@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 class MLP():
     #標準正規分布に従い、重み行列の作成
